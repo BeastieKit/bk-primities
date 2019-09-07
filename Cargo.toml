@@ -1,0 +1,16 @@
+[package]
+name = "bk_primitives"
+version = "0.1.0"
+authors = ["Andrey Cherkashin <with.out@me.com>"]
+description = "Primitive types used by FreeBSD kernel"
+edition = "2018"
+license = "BSD-2-Clause"
+
+[lib]
+name = "bk_primitives"
+path = "src/lib.rs"
+test = false
+doc = false
+
+[dependencies]
+
