@@ -1,6 +1,6 @@
 [package]
 name = "bk_primitives"
-version = "0.1.0"
+version = "0.1.1-alpha.0"
 authors = ["Andrey Cherkashin <with.out@me.com>"]
 description = "Primitive types used by FreeBSD kernel"
 edition = "2018"
